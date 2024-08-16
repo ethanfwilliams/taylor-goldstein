@@ -1,2 +1,1 @@
-# taylor-goldstein
-Some internal wave problems
+## Some internal wave problems
